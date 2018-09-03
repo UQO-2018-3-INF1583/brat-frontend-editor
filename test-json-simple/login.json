@@ -1,7 +1,0 @@
-{
-  "action": "login",
-  "messages": [
-    ["Hello!", "comment", 3]
-  ],
-  "protocol": 1
-}
